@@ -1,0 +1,3 @@
+#!/bin/bash
+chmod 007 hello >> 8-James_Bond
+echo chmod 007 hello
